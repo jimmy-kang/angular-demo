@@ -1,0 +1,15 @@
+:host ::ng-deep {
+  .main-page {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(214, 234, 248);
+  }
+
+  .mat-tab-label-container {
+    background-color: white;
+
+    .mat-tab-label {
+      font-size: 18px;
+    }
+  }
+}

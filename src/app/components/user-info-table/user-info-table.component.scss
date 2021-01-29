@@ -1,0 +1,15 @@
+:host ::ng-deep {
+  .table-container {
+    height: 100%;
+    width: 100%;
+  }
+
+  .mat-table-container {
+    width: 1000px;
+    margin: 10px;
+
+    .mat-elevation-z8 {
+      width: 100%;
+    }
+  }
+}
